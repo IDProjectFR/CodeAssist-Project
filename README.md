@@ -3,4 +3,4 @@
 
 🇬🇧 Example CodeAssist project.
 
-<img src="https://raw.githubusercontent.com/IDProjectFR/CodeAssist-Project/main/icon_CodeAssist.png" alt="CodeAssist" />
+<img src="https://raw.githubusercontent.com/IDProjectFR/CodeAssist-Project/main/icon_CodeAssist.png" alt="CodeAssist" height="250" width="250" />
